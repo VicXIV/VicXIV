@@ -2,16 +2,16 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+Bem+vindo!+%F0%9F%91%8B%E2%80%8B;Hi%2C+welcome!+%F0%9F%91%8B%E2%80%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+Bem+vindo!+%F0%9F%91%8B%E2%80%8B;Hi%2C+welcome!+%F0%9F%91%8B%E2%80%8B" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- Social Badges -->
 <a href="https://linkedin.com/in/vhtx14">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:vihugox14@gmail.com">
+<a href="mailto:vihugox14@gmail.com" target="_blank">
   <img alt="Static Badge" src="https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto">
 </a>
 
@@ -27,6 +27,8 @@ class SobreMim {
     - Atualmente estou aprimorando minhas habilidades em automação e engenharia de dados
     
     - Também gosto de estudar sobre IA, cloud e machine learning
+
+    - Hobby favorito = video games!!!
 }
 ```
 
