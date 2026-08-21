@@ -34,11 +34,7 @@ class SobreMim {
 
 <br/>
 
-<div align="center">
-
-# 🛠️ Tech Stack
-
-</div>
+---
 
 > ### Linguagens de Programação
 
